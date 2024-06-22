@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> One paragraph statement about the project. #### <img align='left' src="images/foto_perfil.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello friend, it is a pleasure to meet you, I am a
 
 ![screenshot](ederix.png)
 
